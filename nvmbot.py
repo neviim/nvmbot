@@ -7,8 +7,8 @@ import datetime
 import xmpp
 import re
 
-jid    = xmpp.protocol.JID('homeia@jabber.org')
-pwd    = '#homeia#'
+jid    = xmpp.protocol.JID('usuario@jabber.org')
+pwd    = 'senha'
 server = "jabber.org" 
 port   = 5222
 
